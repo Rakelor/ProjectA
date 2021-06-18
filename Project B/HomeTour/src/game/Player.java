@@ -1,5 +1,6 @@
 package game;
+import fixtures.Room;
 
 public class Player {
-	fixtures.Room currentRoom;
+	public Room currentRoom;
 }
